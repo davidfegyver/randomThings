@@ -19,8 +19,6 @@ Egyesült Nemzetek Szervezete
 --> Kitelepítések
 Legnagyobb területi nyertes a Szovjetunió
 
-Németország területét a győztes országok 4 megszállási övezetre osztották
-
 A nagyhatalmak között ellenállások voltak várhatóak
 
 ## A hidegháború kezdete
@@ -33,7 +31,37 @@ Churchill Fultoni főiskola: Nyugat európa és Kelet európa között vasfügg�
 Trumann :Be kell avatkozni azokban az országokban, ahol a kommunizmus terjeszkedik,
 ## Gazdasági változások
 #### Marshall terv
+Piacgazdaság
+Amerika
 1948
 élelmiszer-segélyezés, újjáépítési terv
 ipari modernizáció
 nagyobb fogyasztás
+Magántulajdon
+(Multinacionális vállalatok megjelennek)
+#### KGST 
+Szovjet 
+tervgazdálkodás
+nehézipar/haditechnikai fejlesztés
+áruhiány
+államosítások
+
+## A Német kérdés
+A háború végén Németországot szovjet, angol, amerikai és francia megszállási zónákra osztották fel.
+A nyugati hatalmak elhatározták, hogy Németország nyugati felét egységes állammá szervezik.
+Szovjet fenyegetés: a szovjetek katonai blokád alá vonták Nyugat-Berlint
+1949-
+NSZK (Nyugat németország)
+NDK (Szovjet)
+
+Berlini fal - 1961
+
+## Katonai szövetségek
+Fegyverkezési verseny
+Atomfegyverek - Kell egy katonai szövetség
+##### NATO
+1949
+USA
+##### Varsói szerződés
+1955 
+Szovjet
